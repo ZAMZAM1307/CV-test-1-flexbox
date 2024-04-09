@@ -5,9 +5,7 @@
   padding: 10;
   background-color: aqua;
   width: 1160px;
-  height: 1160px;
 }
-
 .raleway-uniquifier > {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -30,6 +28,7 @@
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
+  text-decoration:double;
 }
 
 .BLOCK-2 {
@@ -43,6 +42,7 @@
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
+  
 }
 
 .BLOCK-3 {
@@ -94,5 +94,4 @@ img {
   border-radius: 70%;
   box-shadow: 10 px 10px 5px black;
   cursor: zoom-in;
-  
 }
